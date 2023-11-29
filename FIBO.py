@@ -16,7 +16,7 @@ def FIBO():
             T = T + X
         X, Y =  Y, X + Y
     
-    print("T = ", T)    #sumation of all even numbers
+    print("De sommatie van de even Fibonacci nummers = ", T)    #sumation of all even numbers
     #print("X = ", X)
     #print("Y = ", Y)
     
